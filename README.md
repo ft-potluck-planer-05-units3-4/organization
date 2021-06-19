@@ -6,7 +6,7 @@
 <div align="center">
 
 
-  ![trello](https://github.com/bgoonz/Front-End/blob/bryan-guner/aux-resources/images/trello-board.png?raw=true)
+  ![trello](./trello-board.PNG?raw=true)
   
   ---
   
